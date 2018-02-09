@@ -3,8 +3,9 @@
 Example RightScale CAT that deploys Nginx using Ansible on an Ubuntu Linux server
 
 # Dependencies
-Server Template: "RightLink 10.6.0 Linux Base", revision: 102
-Multi Cloud Image "Ubuntu_14.04_x64", revision: 70
+
+- Server Template: `RightLink 10.6.0 Linux Base`, revision: `102`
+- Multi Cloud Image `Ubuntu_14.04_x64`, revision: `70`
 
 # Installation
 
